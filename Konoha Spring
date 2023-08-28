@@ -1,0 +1,17 @@
+{
+  "title": "Konoha Spring",
+  "description": "This is art",
+  "artist": "kimkun0162",
+  "author": "kimkun0162",
+  "cover": "0 Cover 1.jpg",
+  "chapters": {
+    "1": {
+      "title": "Hinata",
+      "volume": "1",
+      "groups": {
+        "kimkun0162": "/proxy/api/imgur/chapter/dO42jKc/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
